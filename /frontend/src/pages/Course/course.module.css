@@ -1,0 +1,17 @@
+
+
+/* body section */
+.bodyContainer{
+    width : 100%;
+    height: calc( 100% - 70px );
+}
+
+.courseGridContainer{
+    width: 90%;
+    height: calc(100% - 200px);
+    margin: 20px 5%;
+}
+
+.courseTile{
+    cursor: pointer;
+}

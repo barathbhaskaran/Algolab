@@ -1,0 +1,13 @@
+/* body section */
+.bodyContainer {
+    width: 100%;
+    height: calc(100% - 70px);
+    position: relative;
+}
+
+.formContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
